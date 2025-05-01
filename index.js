@@ -25,8 +25,9 @@ client.on("ready", () => {
         });
         
         console.log(client.user.tag);
-        console.log("Pirt_YT : https://youtube.com/@pirtyt");
-        console.log('Discord Server : https://discord.gg/pqecJBcFWU')
+        console.log("
+		    ");
+        console.log('')
       } catch (error) {
         console.error(error);
       }
